@@ -164,7 +164,7 @@ body {
   content: "";
   width: 15px;
   height: 16px;
-  background: url(/images/icon-cart.svg);
+  background: url(images/icon-cart.svg);
 }
 .button:hover {
   background-color: var(--Primary-color3);
